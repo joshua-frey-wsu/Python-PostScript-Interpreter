@@ -16,7 +16,7 @@ This project implemented a Simple PostScript interpreter using Python. The proje
     ```
     git clone https://github.com/joshua-frey-wsu/Python-PostScript-Interpreter.git
     ```
-  - To run interactive environment of the simple {ostScript interpreter enter the     
+  - To run interactive environment of the simple PostScript interpreter enter the     
     following commmand:
     ```python3 repl.py```
   - Then play around and type postscript commands and use stack to see the dictionary 
@@ -26,7 +26,7 @@ This project implemented a Simple PostScript interpreter using Python. The proje
 
   - To run the test cases type the following command:
     ```
-    python -m unittest tests_part2.py
+    python -m unittest -v tests_part2.py
     ```
 
 ## Contributing
