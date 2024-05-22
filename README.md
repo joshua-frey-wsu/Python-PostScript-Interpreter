@@ -28,6 +28,10 @@ This project implemented a Simple PostScript interpreter using Python. The proje
     ```
     python -m unittest -v tests_part2.py
     ```
+    or
+    ```
+    python load.py
+    ```
 
 ## Contributing
 
